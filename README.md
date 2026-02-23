@@ -97,7 +97,7 @@ plt.tight_layout()
 
 ## Output:
 <img width="590" height="333" alt="image" src="https://github.com/user-attachments/assets/2eed3206-85c9-451b-a92a-b9258128e23e" />
-<img width="768" height="419" alt="image" src="https://github.com/user-attachments/assets/a821d926-8b1a-44c2-86cd-7b9b8fba4605" />
+<img width="1212" height="594" alt="image" src="https://github.com/user-attachments/assets/6225fe3f-9873-4665-9dbb-2e2159e37989" />
 <img width="778" height="466" alt="image" src="https://github.com/user-attachments/assets/87121b9e-111b-43a0-af70-f9cc7d50d8d3" />
 <img width="805" height="334" alt="image" src="https://github.com/user-attachments/assets/48421b71-9790-498a-98b0-2b95015c95c6" />
 
